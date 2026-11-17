@@ -55,6 +55,20 @@ python inventory_pro.py
 
 ## Application Preview
 
+## Application Screenshots
+
+### Dashboard
+![Dashboard](Screenshot 2026-11-17 223921.png)
+
+### Products
+![Products](Screenshot 2026-11-17 223906.png)
+
+### Stock
+![Stock](Screenshot 2026-11-17 223854.png)
+
+### Reports
+![Reports](Screenshot 2026-11-17 223814.png)
+
 The application includes a business dashboard, product management, stock operations, sales management, and reporting features.
 
 ## Developer
